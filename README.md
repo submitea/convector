@@ -46,8 +46,8 @@
 **Нужно:** Windows 10/11 и [Python 3.10+](https://www.python.org/downloads/) (при установке отметь «Add Python to PATH»).
 
 ```bash
-git clone https://github.com/<submitea>/<convector>.git
-cd <convector>/converter
+git clone https://github.com/submitea/convector.git
+cd convector/converter
 
 winget install Gyan.FFmpeg      # ffmpeg, один раз
 install.bat                     # поставит библиотеки и добавит пункт в меню
