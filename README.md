@@ -13,8 +13,7 @@
 ![Python](https://img.shields.io/badge/Python-3.10%2B-8B5CF6?style=flat-square)
 ![License](https://img.shields.io/badge/license-MIT-8B5CF6?style=flat-square)
 
-<!-- Положи сюда скриншот: docs/screenshot.png -->
-<!-- <img src="docs/screenshot.png" width="520" alt="Скриншот"> -->
+<img src="docs/main-menu.png" width="520" alt="Скриншот">
 
 </div>
 
@@ -47,8 +46,8 @@
 **Нужно:** Windows 10/11 и [Python 3.10+](https://www.python.org/downloads/) (при установке отметь «Add Python to PATH»).
 
 ```bash
-git clone https://github.com/<твой-ник>/<репозиторий>.git
-cd <репозиторий>/converter
+git clone https://github.com/<submitea>/<convector>.git
+cd <convector>/converter
 
 winget install Gyan.FFmpeg      # ffmpeg, один раз
 install.bat                     # поставит библиотеки и добавит пункт в меню
